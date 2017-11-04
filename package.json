@@ -1,0 +1,35 @@
+{
+  "name": "citations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "starts": "gulp"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "redis": "^2.8.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "ejs": "^2.5.7",
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sstu-icsp/Smurfs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sstu-icsp/Smurfs/issues"
+  },
+  "engines": {
+    "node": "6.11.x",
+    "npm": "5.1.x"
+  },
+  "homepage": "https://github.com/sstu-icsp/Smurfs#readme"
+}
